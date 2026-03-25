@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.2.0",
+	"FriendlyName": "AsyncTickPhysics",
+	"Description": "Utilities for building async Chaos physics workflows across Unreal Engine 5.x.",
+	"Category": "Physics",
+	"CreatedBy": "Sakurairinaqwq",
+	"CreatedByURL": "https://resonera.cn/",
+	"DocsURL": "https://github.com/Sakurairinaqwq/AsyncTickPhysics",
+	"SupportURL": "https://resonera.cn/",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AsyncTickPhysics",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -132,16 +132,6 @@ The plugin ships with example assets under `Plugins/AsyncTickPhysics/Content`, i
 - a sample map
 - example Blueprint assets for testing the async tick flow
 
-## Building
-
-Example packaging command:
-
-```powershell
-& "D:\Engine\UE_5.7\Engine\Build\BatchFiles\RunUAT.bat" BuildPlugin `
-  -Plugin="D:\Game\asynctick\Plugins\AsyncTickPhysics\AsyncTickPhysics.uplugin" `
-  -Package="D:\Game\asynctick\Saved\BuildPlugin57" `
-  -TargetPlatforms=Win64
-```
 
 ## Development Notes
 
